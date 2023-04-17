@@ -3,9 +3,11 @@
 To restore browser tabs -> control+shift+T
 To open INSPECT section -> control+shift+C
 To switch Multi Window -> alt+Tab
-
+To switch tabs -> control+Tab
+To refresh page -> control+R
 //VScode🥋
 To format document in VScode -> alt+shift+F
 To Find/Search Something in VScode -> control+F
 To goto page in VScode ->control+P
 To cancel current terminal process -> control+c
+
