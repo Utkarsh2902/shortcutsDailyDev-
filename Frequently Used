@@ -10,4 +10,5 @@ To format document in VScode -> alt+shift+F
 To Find/Search Something in VScode -> control+F
 To goto page in VScode ->control+P
 To cancel current terminal process -> control+c
+To start terminal ->control+`
 
