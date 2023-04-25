@@ -9,6 +9,7 @@ To open new Tabs -> control+T
 To open new Brower -> control+N
 To open highlight URL link -> control+L
 
+
 //VScode🥋
 
 To format document in VScode -> alt+shift+F
@@ -16,4 +17,5 @@ To Find/Search Something in VScode -> control+F
 To goto page in VScode ->control+P
 To cancel current terminal process -> control+c
 To start terminal ->control+`
-
+To redirect line number -> control+P(:lineNo.)
+To redirect section in same page ->control+P(@sectionName)
