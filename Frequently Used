@@ -19,3 +19,4 @@ To cancel current terminal process -> control+c
 To start terminal ->control+`
 To redirect line number -> control+P(:lineNo.)
 To redirect section in same page ->control+P(@sectionName)
+To slide Explorer ->control+B
